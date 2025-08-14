@@ -3,12 +3,12 @@
   "short_name": "Nordcraft",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/toddledev/resources/main/icons/android-chrome-192x192.png",
+      "src": "https://raw.githubusercontent.com/nordcraftengine/resources/main/icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/toddledev/resources/main/icons/android-chrome-512x512.png",
+      "src": "https://raw.githubusercontent.com/nordcraftengine/resources/main/icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
